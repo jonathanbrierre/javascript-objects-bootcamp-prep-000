@@ -1,5 +1,5 @@
 
-var playlist = { kanyeWest: 'Lift Yourself'}
+var playlist = {}
 
 function updatePlaylist(playlist,artistName,songTitle) {
  var newPlaylist ={}
